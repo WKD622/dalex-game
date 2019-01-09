@@ -1,5 +1,6 @@
 # dalex-game
 Controls:
+
 Q - go up-left
 
 W - go up
